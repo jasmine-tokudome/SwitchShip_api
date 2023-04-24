@@ -38,8 +38,11 @@ gem 'oauth2'
 # 環境変数を管理する
 gem 'dotenv-rails'
 
-# OAuth2を含む様々な認証プロトコルをサポート
-gem 'omniauth'
+# # OAuth2を含む様々な認証プロトコルをサポート
+# gem 'omniauth'
+
+# # 認証機能を実装する
+# gem 'devise'
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
